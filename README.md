@@ -6,7 +6,6 @@ A comprehensive full-stack web application that aggregates and visualizes data f
 
 The Integrated Red-Teaming Dashboard is designed to help AI security teams monitor, analyze, and respond to security vulnerabilities across multiple AI models. The dashboard consolidates data from various sources, including API tests and extension logs, to provide a comprehensive view of security metrics and threats with a visually appealing cyber-themed interface.
 
-![Dashboard Preview](./frontend/public/assets/images/dashboard-preview.png)
 
 ## Key Features
 
