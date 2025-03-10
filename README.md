@@ -48,8 +48,8 @@ The Integrated Red-Teaming Dashboard is designed to help AI security teams monit
 
 1. Clone the repository
 ```bash
-git clone https://github.com/variendarkgirl/air-render.git
-cd red-team-dashboard
+git clone https://github.com/variendarkgirl/ai-render.git
+cd ai-render
 ```
 
 2. Install backend dependencies
@@ -81,7 +81,7 @@ npm install
 ## Project Structure
 
 ```
-red-team-dashboard/
+ai-render/
 │
 ├── frontend/                # React frontend application
 │   ├── public/              # Static assets
