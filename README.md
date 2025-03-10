@@ -48,7 +48,7 @@ The Integrated Red-Teaming Dashboard is designed to help AI security teams monit
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/red-team-dashboard.git
+git clone https://github.com/variendarkgirl/air-render.git
 cd red-team-dashboard
 ```
 
