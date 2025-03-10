@@ -123,7 +123,6 @@ The application can be deployed in various environments:
 - **Production**: Single server or containerized deployment
 - **Cloud**: Deployable to AWS, Azure, or other cloud providers
 
-
 ## Contributing
 
 1. Fork the repository
